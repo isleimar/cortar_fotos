@@ -1,0 +1,1 @@
+# cortar_fotos
