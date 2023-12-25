@@ -1,3 +1,7 @@
+input_photos/
+output_photos/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
